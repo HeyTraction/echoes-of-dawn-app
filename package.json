@@ -1,0 +1,14 @@
+{
+  "name": "echoes-of-dawn-app",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
