@@ -1,8 +1,12 @@
 # echoes-of-dawn-app
 
-# Echoes of Dawn – v0 Web App
+This is a Next.js Pages Router project styled with Tailwind CSS.
 
-Key feature: draw a demo reflection card → download / email → save to Notion.
+## Development
 
-Tech stack: Next.js, Supabase, Mailchimp, Notion API.
+```bash
+npm install
+npm run dev
+```
 
+Create an `.env.local` file with the required variables listed in `AGENTS.md`.
