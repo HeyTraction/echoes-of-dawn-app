@@ -7,7 +7,10 @@
     "start": "next start",
     "test": "jest"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "@mailchimp/mailchimp_marketing": "^5.0.0"
+  },
   "devDependencies": {
     "jest": "^29.0.0"
   }
